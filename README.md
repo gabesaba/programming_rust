@@ -1,1 +1,1 @@
-Working through <i>Programming Rust</i> by Jim Blandy & Jason Orendorff
+Working through <a href="https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283"><i>Programming Rust</i></a> by Jim Blandy & Jason Orendorff

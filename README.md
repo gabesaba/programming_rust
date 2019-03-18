@@ -1,0 +1,1 @@
+Working through <i>Programming Rust</i> by Jim Blandy & Jason Orendorff
